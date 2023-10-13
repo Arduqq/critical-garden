@@ -5,17 +5,11 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# This [is/is not] Hyperreality. Status: **CRITICAL**
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+  These are the mind demons one (or just Artur) fights when trying to understand Critical Theory. This is a Digital ~~Dungeon~~ Garden [as presented by Caulfield](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/) to let my thoughts claim virtual space.
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
-
-<strong>Recently updated notes</strong>
+<strong>(P)lots of Thoughts</strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}

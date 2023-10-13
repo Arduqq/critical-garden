@@ -1,0 +1,8 @@
+---
+    title: "🧫 Why We can't have Nice Things"
+---
+In most technological advancements, I sense a turning point where everything that was once good, raw, and unknown becomes understood, quantified, and commodified. When a new online game is introduced, we experience a phase of pure chaos. People are set loose within a certain framework to explore freely until we fully comprehend it, and the desire to win becomes more enticing than exploring the virtual space. With the internet, we observe a very similar pattern, but the social consequences have been more profound due to the rapid evolution of personal computers. A viral phenomenon like accessible AI could potentially spread like wildfire if we cannot control it.
+
+During our journey, we created scenarios for a world where AI becomes readily accessible to everyone. Our discussions gravitated towards topics such as sex work and the impact of nonconsensual sexual content, where current sexual offenders might obtain a tool that blurs a multitude of ethical boundaries. As we developed tools to safeguard sex workers online, such as private video sharing platforms, we noticed a societal shift. With this in mind, AI tools could potentially exploit these platforms to feed their models and erode the safety measures we once believed were promising.
+
+The drive to profit by exerting power is a glaring aspect of technological growth. Unveiling the power struggles, holding individuals accountable, and raising awareness about the perils of our technological future seem imperative to me.

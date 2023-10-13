@@ -1,7 +1,7 @@
 $color-primary: hsl(0, 0%, 10%);
-$color-text: hsl(0, 0%, 20%);
-$color-subtext: hsl(0, 0%, 30%);
-$color-border: hsl(0, 0%, 85%);
+$color-text: hsl(0, 0%, 85%);
+$color-subtext: hsl(314, 76%, 69%);
+$color-border: hsl(0, 0%, 20%);
 $color-box-background: mix($color-primary, white, 4%);
 $border-radius: 4px;
 $font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
@@ -17,6 +17,7 @@ body {
   color: $color-text;
   font-size: 1rem;
   max-width: 63em;
+  background: $color-primary;
 
   @media (min-width: 820px) {
     font-size: 1.2rem;
@@ -36,12 +37,27 @@ footer {
   padding-top: 1em;
 }
 
+nav a {
+  background: url(/assets/header.gif) center/contain no-repeat;
+  display: inline-block;
+  width: 100%;
+  height: 5em;
+  border: none;
+}
+
+nav a:hover {
+  background: url(/assets/header.gif) center/contain no-repeat;
+  transform: scale(1.1);
+}
+
+
 img {
   max-width: 100%;
   display: block;
   margin: 0 auto;
   max-height: 75vh;
   border-radius: $border-radius;
+  image-rendering: pixelated;
 }
 
 blockquote {
@@ -76,14 +92,13 @@ h6 {
 }
 
 a {
-  transition: background 300ms;
   padding: 0 0.1em;
   text-decoration: none;
-  border-bottom: 1px solid $color-border;
-  color: $color-primary;
+  border-bottom: 1px solid $color-subtext;
+  color: $color-subtext;
   &:hover {
     color: black !important;
-    background: #fffaf1;
+    background:  $color-subtext;
   }
   &:after {
     position: relative;
@@ -100,12 +115,18 @@ a {
 }
 
 *:focus {
-  background: #ffe8bc !important;
+  background-color: #ffe8bc !important;
   color: black !important;
 }
 
 nav {
   margin: 1em 0 3em;
+}
+
+side {
+  font-size: 0.9em;
+  padding: 10px;
+  text-align: center;
 }
 
 #notes-entry-container {

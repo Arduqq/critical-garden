@@ -1,0 +1,6 @@
+---
+title: "🦠 Acknowledging the Models"
+---
+Baudrillard proposed an intriguing thought that helped me grasp how capitalist structures uphold our current state of socio-technological discourse. When we see any work, any concept, any tech or any *thing*, we can recognize that its creation was influenced by specific models rooted in this  *void*. It's an attempt to simulate what we believe reality to be, yet we might never achieve this excellence. 
+
+This feels perfectly fine. It's not a bad thing when people are unharmed and minds remain free under this model, yet there are mechanisms to let us know that this *thing* represents reality. A system that tries to portray their simulation as representation of truth, and this truth often finds itself in this false equivalence to data. This is where we as tech people come into play. We must understand that we are working with models originating from people and not the existential truth. Objectivity is not something we must erase, but acknowledge to our best to remain human. When something new emerges, we must do our best to understand its origin.
